@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Costa 🖐️
 
-<h6> Don't speak Portuguese? Click<a href="https://github.com/gustacoosta/gustacoosta/README-en.md"> here</a> to see this page in English. </h6>
+<h6> Don't speak Portuguese? Click<a href="https://github.com/gustacoosta/gustacoosta/edit/main/README-en.md"> here</a> to see this page in English. </h6>
 
 ## Sobre mim
 
