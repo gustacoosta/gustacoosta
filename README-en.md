@@ -5,7 +5,7 @@
 ## About me
 
 - 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Studying Systems Analysis and Development at SENAI FACULTY OF MECHATRONIC TECHNOLOGY.
+- 🎓 Studying Systems Analysis and Development at FACULDADE SENAI DE TECNOLOGIA MECATRÔNICA.
 
 ## My Skills
 
@@ -34,6 +34,6 @@
 
 ## Where to find me
 
-[![Gmail Badge](https://img.shields.io/badge/-costaagustavo9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:costaagustavo9@gmail.com)](mailto: costaagustavo9@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-costaagustavo9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:costaagustavo9@gmail.com)](mailto:costaagustavo9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustacoosta/ )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustacoosta_/)
