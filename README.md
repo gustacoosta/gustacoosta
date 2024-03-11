@@ -22,12 +22,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<br/>
-
-<div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustacoosta&theme=radical&mode=weekly" />
-</div>
-
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-devcostaagustavo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devcostaagustavo@gmail.com)](mailto:devcostaagustavo@gmail.com)
